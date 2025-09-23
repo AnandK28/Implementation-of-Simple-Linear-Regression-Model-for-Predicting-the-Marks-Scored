@@ -15,12 +15,6 @@
 
 ## Program:
 
-Program to implement the simple linear regression model for predicting the marks scored.
-
-Developed by: CHITTOOR SARAVANA MRUDHULA
-
-RegisterNumber:  212224040056
-
 ```
 
 import numpy as np
